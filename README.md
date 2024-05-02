@@ -11,6 +11,39 @@
 
 <br/>
 
+---
+
+<h3> :raised_hand: &nbsp;What can I do for you? </h3>
+
+- **Manage machine learning project from scratch:**
+
+  
+  :eyes: &nbsp;data exploration  
+  :hammer: &nbsp;data preparation  
+  :pencil: &nbsp;model design  
+  :computer: &nbsp;model training  
+  :bar_chart: &nbsp;performance evaluation  
+  🤝 &nbsp;model integration  
+  :chart_with_upwards_trend: &nbsp;performance monitoring
+
+<br/>
+
+|  Specialized fields (professional experience)      | Other fields (personnal experience) |
+| :---        |    :---   |
+| Classification, regression, time series, NLP, recommendation tasks        |   Image, audio tasks   |
+ 
+Specialized business sectors (professional experience): Finance, Travel
+
+<br/>
+
+- **Software development in Python**
+
+  - Backend software development (specialized in data products)
+
+<br/>
+
+---
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :star: :star: :star: :star: :star:
@@ -53,30 +86,32 @@
 
 <br/>
 
-<p>
+---
 
-## 📝 Some Professional Projects
-### One-year prediction of hotel occupancy using time series model
+<h3> 📝 &nbsp;Some Professional Projects</h3>
+
+#### One-year prediction of hotel occupancy using time series model
 Machine learning prediction model using custom neural network architecture based on embeddings + LSTM + linear layers. Trained on very large database using GPU on AWS: >2B rows.  
 Model deployed in production and integrated into a recommendation product. Significantly improved RMSE metric.  
 ```Libraries Utilized: Pyspark, Petastorm, Pytorch, Transformers (hugging face), ONNX```
 
-### Train language model from scratch on transactional dataset
+#### Train language model from scratch on transactional dataset
 Transformer language model pre-trained on transactional dataset and fine-tunned on classification and named entity recognition tasks.
 Model deployed in production. Significantly improved accuracy metric .  
 ```Libraries Utilized: Pandas, Numpy, Pytorch, Transformers (hugging face), ONNX```
 
-### Insurance recommendation system
+#### Insurance recommendation system
 Gradient boosting based model to recommend the best inssurance given client profil and past behavior.  
 ```Libraries Utilized: Catboost, Pandas, Numpy, SQL```
 
-### Credit scoring
+#### Credit scoring
 Building a machine learning based on gradient boosting model to predict the probability of default for a client following a bank loan
 ```Libraries Utilized: Catboost, Pandas, Numpy, SQL```
 
-</p>
+<br/>
 
-<br>
+---
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p>
