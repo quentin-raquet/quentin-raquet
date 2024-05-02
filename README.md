@@ -1,4 +1,4 @@
-<h1>Machine Learning Scientist in Freelance</h1>
+<h1>Freelance Machine Learning Scientist</h1>
 
 <h3> :man: &nbsp;About Me </h3>
 
