@@ -15,18 +15,10 @@
 
 <h3> :raised_hand: &nbsp;What can I do for you? </h3>
 
-- #### Manage machine learning project from scratch:
+- #### Manage machine learning business project from scratch:
 
   :eyes: &nbsp;data exploration  ->  :hammer: &nbsp;data preparation  ->  :pencil: &nbsp;model design  ->  :computer: &nbsp;model training  ->  
   :bar_chart: &nbsp;performance evaluation  ->  🤝 &nbsp;model integration  ->  :chart_with_upwards_trend: &nbsp;performance monitoring
-
-  - ##### Specialized Fields (Professional Experience):
-
-    Classification / Regression / Time Series / NLP / Recommendation
-
-  - ##### Other Fields (Personal Experience):
-
-    Image / Audio
 
   - ##### Specialized Business Sectors (Professional Experience):
 
@@ -34,9 +26,27 @@
 
 <br/>
 
-- **Software development in Python**
+- #### Research & Development in Machine / Deep Learning
 
-  - Backend software development (specialized in data products)
+  - ##### Specialized Fields (Professional Experience):
+
+    Tabular (Classification, Regression) / Time Series / NLP / Recommendation
+
+  - ##### Other Fields (Personal Experience):
+
+    Image / Audio / Graph
+
+<br/>
+
+- #### Software development in Python
+
+  - ##### Backend software development (specialized in data products)
+  
+    Read & Write database / data preprocessing / model scoring / API integration
+
+  - ##### Dashboard development in Dash (plotly)
+ 
+    Data visualization
 
 <br/>
 
@@ -61,11 +71,11 @@
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
   
 - :star: :star: :star:
 
-  ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
