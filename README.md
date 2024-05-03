@@ -2,10 +2,9 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🔭 Drawing on my **7 years of experience** in data science, I've decided to launch myself as a **freelance data scientist** in **Paris**
+- 🔭 Drawing on my **7 years of experience** in data science, I've decided to launch myself as a **freelance data scientist** around **Paris**
 - :heart: My favorite language: Python
 - 🌱 I’m currently learning to develop a web app from scratch
-- 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
 - 💜 Interests: sport, travel, cinema, science
 
