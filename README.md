@@ -15,24 +15,22 @@
 
 <h3> :raised_hand: &nbsp;What can I do for you? </h3>
 
-- **Manage machine learning project from scratch:**
+- #### Manage machine learning project from scratch:
 
-  
-  :eyes: &nbsp;data exploration  
-  :hammer: &nbsp;data preparation  
-  :pencil: &nbsp;model design  
-  :computer: &nbsp;model training  
-  :bar_chart: &nbsp;performance evaluation  
-  🤝 &nbsp;model integration  
-  :chart_with_upwards_trend: &nbsp;performance monitoring
+  :eyes: &nbsp;data exploration  ->  :hammer: &nbsp;data preparation  ->  :pencil: &nbsp;model design  ->  :computer: &nbsp;model training  ->  
+  :bar_chart: &nbsp;performance evaluation  ->  🤝 &nbsp;model integration  ->  :chart_with_upwards_trend: &nbsp;performance monitoring
 
-<br/>
+  - ##### Specialized Fields (Professional Experience):
 
-|  Specialized fields (professional experience)      | Other fields (personnal experience) |
-| :---        |    :---   |
-| Classification, regression, time series, NLP, recommendation tasks        |   Image, audio tasks   |
- 
-Specialized business sectors (professional experience): Finance, Travel
+    Classification / Regression / Time Series / NLP / Recommendation
+
+  - ##### Other Fields (Personal Experience):
+
+    Image / Audio
+
+  - ##### Specialized Business Sectors (Professional Experience):
+
+    Finance / Travel
 
 <br/>
 
